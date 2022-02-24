@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/botChatManager/static/js/main.4d4f945a.chunk.js",
-    "main.js.map": "/botChatManager/static/js/main.4d4f945a.chunk.js.map",
+    "main.js": "/botChatManager/static/js/main.ef70325b.chunk.js",
+    "main.js.map": "/botChatManager/static/js/main.ef70325b.chunk.js.map",
     "runtime-main.js": "/botChatManager/static/js/runtime-main.95dc709c.js",
     "runtime-main.js.map": "/botChatManager/static/js/runtime-main.95dc709c.js.map",
     "static/css/2.1aee6b68.chunk.css": "/botChatManager/static/css/2.1aee6b68.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.95dc709c.js",
     "static/css/2.1aee6b68.chunk.css",
     "static/js/2.ff52b794.chunk.js",
-    "static/js/main.4d4f945a.chunk.js"
+    "static/js/main.ef70325b.chunk.js"
   ]
 }
