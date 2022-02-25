@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/botChatManager/static/js/main.789920e3.chunk.js",
-    "main.js.map": "/botChatManager/static/js/main.789920e3.chunk.js.map",
+    "main.js": "/botChatManager/static/js/main.7126c986.chunk.js",
+    "main.js.map": "/botChatManager/static/js/main.7126c986.chunk.js.map",
     "runtime-main.js": "/botChatManager/static/js/runtime-main.95dc709c.js",
     "runtime-main.js.map": "/botChatManager/static/js/runtime-main.95dc709c.js.map",
     "static/css/2.1aee6b68.chunk.css": "/botChatManager/static/css/2.1aee6b68.chunk.css",
-    "static/js/2.72854699.chunk.js": "/botChatManager/static/js/2.72854699.chunk.js",
-    "static/js/2.72854699.chunk.js.map": "/botChatManager/static/js/2.72854699.chunk.js.map",
+    "static/js/2.ce0b6950.chunk.js": "/botChatManager/static/js/2.ce0b6950.chunk.js",
+    "static/js/2.ce0b6950.chunk.js.map": "/botChatManager/static/js/2.ce0b6950.chunk.js.map",
     "index.html": "/botChatManager/index.html",
     "static/css/2.1aee6b68.chunk.css.map": "/botChatManager/static/css/2.1aee6b68.chunk.css.map",
-    "static/js/2.72854699.chunk.js.LICENSE.txt": "/botChatManager/static/js/2.72854699.chunk.js.LICENSE.txt"
+    "static/js/2.ce0b6950.chunk.js.LICENSE.txt": "/botChatManager/static/js/2.ce0b6950.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.95dc709c.js",
     "static/css/2.1aee6b68.chunk.css",
-    "static/js/2.72854699.chunk.js",
-    "static/js/main.789920e3.chunk.js"
+    "static/js/2.ce0b6950.chunk.js",
+    "static/js/main.7126c986.chunk.js"
   ]
 }
