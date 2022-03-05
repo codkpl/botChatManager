@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/botChatManager/static/css/main.5a7f7dbe.chunk.css",
-    "main.js": "/botChatManager/static/js/main.c8c38c4e.chunk.js",
-    "main.js.map": "/botChatManager/static/js/main.c8c38c4e.chunk.js.map",
+    "main.js": "/botChatManager/static/js/main.f144e708.chunk.js",
+    "main.js.map": "/botChatManager/static/js/main.f144e708.chunk.js.map",
     "runtime-main.js": "/botChatManager/static/js/runtime-main.95dc709c.js",
     "runtime-main.js.map": "/botChatManager/static/js/runtime-main.95dc709c.js.map",
     "static/css/2.1aee6b68.chunk.css": "/botChatManager/static/css/2.1aee6b68.chunk.css",
-    "static/js/2.e7e0764b.chunk.js": "/botChatManager/static/js/2.e7e0764b.chunk.js",
-    "static/js/2.e7e0764b.chunk.js.map": "/botChatManager/static/js/2.e7e0764b.chunk.js.map",
+    "static/js/2.799e1acf.chunk.js": "/botChatManager/static/js/2.799e1acf.chunk.js",
+    "static/js/2.799e1acf.chunk.js.map": "/botChatManager/static/js/2.799e1acf.chunk.js.map",
     "index.html": "/botChatManager/index.html",
     "static/css/2.1aee6b68.chunk.css.map": "/botChatManager/static/css/2.1aee6b68.chunk.css.map",
     "static/css/main.5a7f7dbe.chunk.css.map": "/botChatManager/static/css/main.5a7f7dbe.chunk.css.map",
-    "static/js/2.e7e0764b.chunk.js.LICENSE.txt": "/botChatManager/static/js/2.e7e0764b.chunk.js.LICENSE.txt",
+    "static/js/2.799e1acf.chunk.js.LICENSE.txt": "/botChatManager/static/js/2.799e1acf.chunk.js.LICENSE.txt",
     "static/media/FontApp.css": "/botChatManager/static/media/AppFont.1cf932e7.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.95dc709c.js",
     "static/css/2.1aee6b68.chunk.css",
-    "static/js/2.e7e0764b.chunk.js",
+    "static/js/2.799e1acf.chunk.js",
     "static/css/main.5a7f7dbe.chunk.css",
-    "static/js/main.c8c38c4e.chunk.js"
+    "static/js/main.f144e708.chunk.js"
   ]
 }
